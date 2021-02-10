@@ -1,0 +1,16 @@
+body{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.main{
+    border: 4px solid black;
+    background-color: gray;
+
+}
